@@ -20,7 +20,7 @@ $cd catkin_ws/
 $source devel/setup.bash
 $roslaunch my_robot mapping.launch
 ```
-### Now, click on the terminal with the teleop program, and navigate using the keyboard. The map file will be created as the robot moves around. Revisiting locations and moving slowly can help in generating loop closures and a more accurate map. 
+Now, click on the terminal with the teleop program, and navigate using the keyboard. The map file will be created as the robot moves around. Revisiting locations and moving slowly can help in generating loop closures and a more accurate map. 
 
 ## To visualize the results: 
 ```
